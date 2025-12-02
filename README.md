@@ -488,4 +488,5 @@ Regular updates include:
 
 **Remember**: With great power comes great responsibility. Use this tool ethically, legally, and only for defensive security purposes.
 
-*Last updated: March 2024*
+
+*Last updated: NOVEMBER 2025*
